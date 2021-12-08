@@ -1,0 +1,19 @@
+{
+  "name": "jwt-signin-pair-keys",
+  "version": "1.0.0",
+  "description": "Utilisation JWT avec des clés RSA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "JWT",
+    "Node"
+  ],
+  "author": "Artkabis",
+  "license": "MIT",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
